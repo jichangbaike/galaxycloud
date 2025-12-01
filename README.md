@@ -1,5 +1,7 @@
 # 银河云 GalaxyCloud 官网注册入口说明与多平台使用指南
 
+<img src="https://raw.githubusercontent.com/jichangbaike/galaxycloud/refs/heads/main/1280.jpg">
+
 银河云 GalaxyCloud 是一家 2024 年上半年上线的跨境网络传输服务提供商，由海外团队运营，采用 **Trojan 协议 + 全节点 IPLC 专线传输** 的产品路线。  
 整体更偏向长期运营和稳定性，而不是依靠短期促销或极端低价吸引用户。
 
@@ -8,7 +10,6 @@
 > 本文档不构成任何投资或使用建议，仅作为使用说明类资料，请在合法合规前提下使用相关服务。  
 > 最后更新：2025-12-01（如套餐或线路有调整，以官网为准）
 
-<img src="https://raw.githubusercontent.com/jichangbaike/galaxycloud/refs/heads/main/1280.jpg" witd="1000">
 
 ---
 
