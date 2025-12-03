@@ -165,7 +165,7 @@
 
 - **桌面端**
   - Windows / macOS / Linux：  
-    - 支持 Clash 系列、NekoRay 等常见客户端，通过订阅链接导入即可使用。
+    - 支持 Clash Verge、FlClash等常见客户端，通过订阅链接导入即可使用。
 
 - **移动端**
   - Android：
