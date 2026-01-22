@@ -104,7 +104,7 @@ https://finalto.xyz/gi6d3J
 
 银河云 GalaxyCloud 采用“精炼节点”的策略，而非宣传型的“200+ 节点堆数量”。当前节点规模约在 **48 个核心节点** 左右，重点覆盖常用地区并兼顾部分冷门区域。
 
-<img src="https://raw.githubusercontent.com/jichangbaike/galaxycloud/refs/heads/main/7606.jpg" witd="1000">
+<img src="https://raw.githubusercontent.com/jichangbaike/galaxycloud/refs/heads/main/images/galaxycloud-test-20260122.png" alt="银河云测速图">
 
 ### 节点覆盖示例（以官网为准）
 
@@ -122,8 +122,6 @@ https://finalto.xyz/gi6d3J
 - 延迟：常见节点 RTT 大致在几十毫秒级；  
 - 速度：下载带宽可满足高清甚至 4K 视频、云盘同步等需求；  
 - 高峰期：晚间高峰依旧可维持较高可用速率，而不是“上午很快、晚上明显衰减”。
-
-<img src="https://raw.githubusercontent.com/jichangbaike/galaxycloud/refs/heads/main/images/galaxycloud-test-20260122.png" alt="银河云测速图">
 
 ---
 
