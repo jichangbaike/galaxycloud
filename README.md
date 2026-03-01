@@ -8,7 +8,7 @@
 本仓库用于整理 GalaxyCloud 的官网注册入口说明、套餐信息、多平台使用指引以及常见问题，方便用户在合规前提下完成日常访问需求。
 
 > 本文档不构成任何投资或使用建议，仅作为使用说明类资料，请在合法合规前提下使用相关服务。  
-> 最后更新：2026-02-13（如套餐或线路有调整，以官网为准）
+> 最后更新：2026-03-01（如套餐或线路有调整，以官网为准）
 
 
 ---
@@ -104,7 +104,7 @@ https://finalto.xyz/gi6d3J
 
 银河云 GalaxyCloud 采用“精炼节点”的策略，而非宣传型的“200+ 节点堆数量”。当前节点规模约在 **48 个核心节点** 左右，重点覆盖常用地区并兼顾部分冷门区域。
 
-<img src="https://raw.githubusercontent.com/jichangbaike/galaxycloud/refs/heads/main/images/galaxycloud-test-20260122.png" alt="银河云测速图">
+<img src="https://raw.githubusercontent.com/jichangbaike/galaxycloud/refs/heads/main/images/galaxycloud-test-20260301.png" alt="银河云 GalaxyCloud 测速图">
 
 ### 节点覆盖示例（以官网为准）
 
