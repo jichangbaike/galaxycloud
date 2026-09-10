@@ -8,7 +8,7 @@
 
 > 本仓库用于整理银河云官网注册入口说明、套餐信息、多平台使用指引以及常见问题，方便用户在合规前提下完成日常访问需求。
 > 
-> 最后更新：2026-06-14（如套餐或线路有调整，以官网为准）
+> 最后更新：2026-09-10（如套餐或线路有调整，以官网为准）
 
 > [!WARNING]
 > 本仓库内容为原创整理，禁止整段复制、镜像式搬运、长期针对性跟抄行为。  
@@ -19,6 +19,7 @@
 
 ## 银河云（GalaxyCloud）官网地址入口
 
+- ⚠️ **仓库首页**：https://github.com/jichangbaike/galaxycloud
 - 👉 **银河云官网注册入口**：  
 [银河云 GalaxyCloud 官网](https://finalto.xyz/gi6d3J)
 
@@ -97,11 +98,17 @@
 
 ## 优惠码与活动说明
 
-🎁 **最新优惠活动**
+**短期优惠活动**
+
+- **85折**优惠码：**gc202685**，适用周期：月付、季度、半年
+- **85折**优惠码：**gc202680**，适用周期：月付、季度、半年
+- 活动时间：即日起 ～ 2026年9月30日23:59
+
+**长期优惠活动**
 
 - 季付9折，季付85折，半年付8折
-- 活动时间：即日起 ～ 2026 年 6 月 30 日 23:59
 - 不需要优惠码
+- 可与短期活动优惠码叠加使用
 
 > 具体活动时效请以 银河云 官网公告为准。
 
@@ -181,15 +188,15 @@
 
 - **Windows 端**
   - 支持 Win/10/11 操作系统
-  - [下载Windows 客户端](https://app.pbbapi.baifeng88.com/apps/gc/gcapp-lite.exe)
+  - [下载Windows 客户端](https://dl.pbbapi.hnlskj98.com/apps/gc/gcapp-lite.exe)
   
 - **macOS 端**
   - 支持 Intel 及 Apple Silicon (M1/M2/M3) 芯片；
-  - [下载macOS 客户端](https://app.pbbapi.baifeng88.com/apps/gc/gcapp-lite.pkg)
+  - [下载macOS 客户端](https://dl.pbbapi.hnlskj98.com/apps/gc/gcapp-lite.pkg)
 
 - **Android 客户端**  
   - 支持安卓手机、平板及智能电视; 
-  - [点击下载 Android 客户端](https://app.pbbapi.baifeng88.com/apps/gc/gcapp-lite.apk)
+  - [点击下载 Android 客户端](https://dl.pbbapi.hnlskj98.com/apps/gc/gcapp-lite.apk)
 
 - **iOS / iPadOS 客户端**   
   - 外服 App Store 搜索：[**nextin**](https://apps.apple.com/us/app/nextin/id6754002454)，安装完成 (需要 iOS 15+)
@@ -197,14 +204,14 @@
   - 输入您的 银河云 的账号和密码；
   - 登录成功后即可看到自己的 银河云 订阅信息；
   - 点击连接后就可以正常使用。
- 
+
 - **Linux 客户端**
   - 最低支持 Ubuntu 22.04+ Debian 12+ Fedora 36+；
-  - [下载macOS 客户端](https://app.pbbapi.baifeng88.com/apps/gc/gcapp-linux-lite.zip)
+  - [下载macOS 客户端](https://dl.pbbapi.hnlskj98.com/apps/gc/gcapp-linux-lite.zip)
 
 
 - **OpenWrt 客户端**
-  - [下载OpenWrt 客户端](https://app.pbbapi.baifeng88.com/apps/gc/gcapp-openwrt-lite.zip)
+  - [下载OpenWrt 客户端](https://dl.pbbapi.hnlskj98.com/apps/gc/gcapp-openwrt-lite.zip)
 
 > 客户端推荐列表、下载渠道与配置示例可能会随时间调整，请以银河云官网的使用说明为准，避免从不明来源下载软件。
 
@@ -292,5 +299,5 @@ A：建议优先查看银河云官网的帮助中心、使用说明和公告。�
 如发现相关情况，维护者将保留证据并按平台规则处理。
 
 - **Maintained by:** `jichangbaike`  
-- **Last Updated:** `2026-05-14`  
-- **Version:** `v1.1`
+- **Last Updated:** `2026-09-10`  
+- **Version:** `v1.2`
